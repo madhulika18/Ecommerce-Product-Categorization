@@ -98,7 +98,7 @@ Word clouds are a great way to visualize the frequency of words in text data.
 ![wordCloud](https://github.com/user-attachments/assets/65e7d8dd-e1b6-43be-a757-4f99ed95deca)
 
 ## 5. Models Used
-We have used the following 5 models (Machine Learning + Deep Learning Models)
+We have used the following 4 models:
 
 a) Extreme Gradient Boosting
 
@@ -106,9 +106,7 @@ b) Random Forest Classifier
 
 c) Extra Trees Classifier
 
-d) Convolution Neural Network (CNN)
-
-e) FeedForward Neural Network (FNN)
+d) Logistic Regression
 
 
 ## 6. Future Work
